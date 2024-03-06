@@ -15,7 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "Integra Optics": "#IntegraOptics #InfiniteElectronics #SameDayShipping",
         "Show Me Cables": "#ShowMeCables #InfiniteElectronics #SameDayShipping",
         "MilesTek": "#MilesTek #InfiniteElectronics #SameDayShipping",
-        "INC Installs": "#INCInstalls #InfiniteElectronics"
+        "INC Installs": "#INCInstalls #InfiniteElectronics",
+        "RadioWaves": "#RadioWaves #InfiniteElectronics"
     };
 
     brandButtons.forEach(button => {
