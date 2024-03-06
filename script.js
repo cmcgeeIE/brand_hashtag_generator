@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "L-com": "#Lcom #InfiniteElectronics #SameDayShipping",
         "Fairview Microwave": "#FairviewMicrowave #InfiniteElectronics #SameDayShipping",
         "Pasternack": "#Pasternack #InfiniteElectronics #SameDayShipping",
-        "NavePoint": "#NavePoint #InfiniteElectronics #FreeShipping #SameDayShipping",
+        "NavePoint": "#NavePoint #InfiniteElectronics #SameDayShipping #FreeShipping #ServerRoom #ServerRack #ServerEnclosure #DataCenter #TechInstallers #ITNetworking #AVinstall",
         "PolyPhaser": "#PolyPhaser #InfiniteElectronics #SameDayShipping",
         "Transtector": "#Transtector #InfiniteElectronics #SameDayShipping",
         "KP Performance Antennas": "#KPPerformanceAntennas #InfiniteElectronics #SameDayShipping",
